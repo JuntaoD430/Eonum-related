@@ -8,7 +8,7 @@
 
 ## Overview
 
-During my internship at Eonum AG, I worked on developing and optimizing real-time AI algorithms for EEG-based psychiatric diagnosis. The goal was to advance low-latency, wearable-compatible solutions to support continuous patient monitoring and clinical decision-making.
+During my internship at Eonum, I worked on developing and optimizing real-time AI algorithms for EEG-based psychiatric diagnosis. The goal was to advance low-latency, wearable-compatible solutions to support continuous patient monitoring and clinical decision-making.
 
 ## Key Contributions
 
